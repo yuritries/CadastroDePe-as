@@ -26,6 +26,7 @@ if (numeroPecas < 10) {
 } else {
   console.log("A lista já está com o numero máximo de ítens permitidos");
 }
+
 if (nomePeca.length > 3) {
   console.log("Nome da peça é valido, cadastro realizado! 😊");
 } else {
